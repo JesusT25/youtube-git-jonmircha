@@ -1,3 +1,5 @@
 # Curso de _Git_ y _GitHub_
 
-Hola soy tu amigo y docente digital Jonathan Mircha, bienvenid@s a mi curso.
+Este repositorio es del curso del profesor Jonathan Mircha.
+
+Su [canal](https://www.youtube.com/@jonmircha) de youtube. 😎 
