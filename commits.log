@@ -1,0 +1,98 @@
+commit a0a545b046360010bb86fe8147994eb24750c1f2
+Author: JesusT25 <jesusdtn.18@gmail.com>
+Date:   Wed Jul 2 10:37:14 2025 -0400
+
+    Agregando 2 párrafos
+
+commit 67b7b5bb2a6a0b81a7a30246b45584b19379a641
+Merge: d97ce8b 7c6b7f4
+Author: JesusT25 <jesusdtn.18@gmail.com>
+Date:   Tue Jul 1 20:57:59 2025 -0400
+
+    Resolviendo conflicto en estaciones del año y fechas de inicio
+
+commit d97ce8b8f221436c0ecbb9c1a8a8ae7591316e41
+Author: JesusT25 <jesusdtn.18@gmail.com>
+Date:   Tue Jul 1 20:40:27 2025 -0400
+
+    Agregando estaciones del año con fecha de inicio
+
+commit 7c6b7f4ea94773d92ffe3bb48934948a005a3602
+Author: JesusT25 <jesusdtn.18@gmail.com>
+Date:   Tue Jul 1 20:40:27 2025 -0400
+
+    Agregando las estaciones del año
+
+commit 192aa6683dc82e79e54cf91c5bc13a0d9774b3d2
+Merge: 9e0a35c 1a7b11e
+Author: JesusT25 <jesusdtn.18@gmail.com>
+Date:   Tue Jul 1 20:34:25 2025 -0400
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit 1a7b11ea0b8aec4dc596ad8f9b3d78aa2d1a95ea
+Author: JesusT25 <jesusdtn.18@gmail.com>
+Date:   Mon Jun 30 12:08:22 2025 -0400
+
+    Agregando index.js al index.html
+
+commit 9e0a35ca64c5d96bd28d10220d198f5bf1e0c3ca
+Author: JesusT25 <jesusdtn.18@gmail.com>
+Date:   Mon Jun 30 12:05:33 2025 -0400
+
+    Agregando style.css al index.html
+
+commit 8067219442bfc66e0de8cac24b5c18256057bbe3
+Merge: d81ca14 15d1030
+Author: JesusT25 <jesusdtn.18@gmail.com>
+Date:   Mon Jun 30 11:49:38 2025 -0400
+
+    Merge branch 'js'
+
+commit 15d1030dfe766ab3f7e2eb3d00b9a3553475bc2b
+Author: JesusT25 <jesusdtn.18@gmail.com>
+Date:   Mon Jun 30 11:26:50 2025 -0400
+
+    Creando index.js
+
+commit d81ca14cb7534ac686d22729cbf8f2ba47f37bb6
+Author: JesusT25 <jesusdtn.18@gmail.com>
+Date:   Mon Jun 30 11:06:45 2025 -0400
+
+    Creando stlye.css
+
+commit f10c4b4c24779d05baa56995226351ec6dc523c0
+Author: JesusT25 <jesusdtn.18@gmail.com>
+Date:   Mon Jun 30 10:59:14 2025 -0400
+
+    Creando index.html
+
+commit 401c513bf19a96d97035f7040c92652e2a79e234
+Author: JesusT25 <jesusdtn.18@gmail.com>
+Date:   Mon Jun 30 10:32:19 2025 -0400
+
+    Ignorando archivos .exe
+
+commit d5aac22a29954976306148fd8729bdf973417d0c
+Author: JesusT25 <jesusdtn.18@gmail.com>
+Date:   Mon Jun 23 20:40:20 2025 -0400
+
+    Creando licencia del repositorio
+
+commit de7ec18e0eb7a786cba8ff1edf01c5e55d302249
+Author: JesusT25 <jesusdtn.18@gmail.com>
+Date:   Mon Jun 23 20:33:56 2025 -0400
+
+    Editando contenido del README
+
+commit f06bd84397a8e983dbc7cfff0b420dcc070b837b
+Author: JesusT25 <jesusdtn.18@gmail.com>
+Date:   Mon Jun 23 20:19:18 2025 -0400
+
+    Agregando contenido inicial al README
+
+commit 2d84cbd08d270e963f4ced8ba71ec0ff37dc16e4
+Author: JesusT25 <jesusdtn.18@gmail.com>
+Date:   Sun Jun 22 16:00:39 2025 -0400
+
+    Primer commit 😎
